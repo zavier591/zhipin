@@ -1,0 +1,51 @@
+/* pages/recommend/recommend.wxss */
+
+.title{
+  margin: 25rpx;
+  font-size: 45rpx;
+  color: #494949;
+}
+
+.recommend-group{
+  display: flex;
+ justify-content: space-between;
+ margin-bottom: 100rpx;
+  
+
+}
+
+
+.image{
+  width: 200rpx;
+  height: 300rpx;
+  margin-left: 20rpx;
+  border: 2rpx solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.box{
+  margin-right: 50rpx;
+}
+
+.value-group{
+  width: 500rpx;
+  margin-top: 70rpx;
+
+  border: 2rpx solid #ccc;
+}
+
+.value-list{
+  display: flex;
+
+  justify-content: flex-start;
+}
+
+.value-score{
+  margin-left: 30rpx;
+  margin-top: 6rpx;
+  font-size: 35rpx;
+  color: rgb(221, 204, 51);
+}

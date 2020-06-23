@@ -1,0 +1,27 @@
+
+
+<view class="input">
+<view class="inputtop">
+    <input class="username" name="username" placeholder="用户名" 
+    bindinput="usernameInput"/>
+  </view>
+<view class="inputtop">
+    <input class="username2" name="username" placeholder="手机号/邮箱" 
+    bindinput="usernameInput"/>
+  </view>
+<view class="inputbottom">
+    <input class="password" password placeholder="密码"
+     bindinput="passwordinput" />
+  </view>
+  <view class="inputbottom">
+    <input class="password" password placeholder="确定密码"
+     bindinput="passwordinput" />
+  </view>
+
+</view>
+
+
+<view class="button" style="background-color:#fbf9fe">
+ 
+  <button class="resetBtn" type="primary" bindtap="resetBtnClick">确定注册</button>
+</view>

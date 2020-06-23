@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tvrecommend/tvrecommend",
+    
+    "pages/video/video",
+    
+    "pages/comment/comment",
+    "pages/detail/detail",
+    "pages/search/search",
+    "pages/list/list",
+    "pages/logs/logs",
+    "pages/recommend/recommend",
+    "pages/mys/mys",
+    "pages/login/login",
+    "pages/beginlogin/beginlogin",
+    "pages/grades/grades",
+    "pages/register/register",
+    "pages/yunpan/yunpan",
+    "pages/jingdong/jingdong"
+    
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#b384ce",
+    "navigationBarTitleText": "智品点评",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#b384ce",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/首页2.png",
+        "selectedIconPath": "images/首页1.png"
+      },
+      {
+        "pagePath": "pages/recommend/recommend",
+        "text": "推荐",
+        "iconPath": "images/推荐2.png",
+        "selectedIconPath": "images/推荐1.png"
+      },
+      {
+        "pagePath": "pages/mys/mys",
+        "text": "我的",
+        "iconPath": "images/我的2.png",
+        "selectedIconPath": "images/我的1.png"
+      }
+    ]
+  }
+}

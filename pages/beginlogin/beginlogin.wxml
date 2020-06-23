@@ -1,0 +1,5 @@
+<view class="icon"></view>
+<view class="button-group">
+<button class="wxlogin" type="primary" bindtap="gotowxlogin">微信登录</button>
+<button class="userlogin" type="" bindtap="gotouserlogin">已有智品账号登录</button>
+</view>

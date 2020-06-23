@@ -1,0 +1,64 @@
+/* pages/mys/mys.wxss */
+.btn-active {
+  background-color:#b384ce;
+}
+
+.myspage{
+  height: 400rpx;
+  width: 100%;
+  display: flex;
+  justify-content: center; 
+  background-color: #dd8fcc;
+
+
+}
+
+.btn{
+  margin-top: 150rpx;
+  height: 100rpx;
+  width: 30%;
+}
+
+.myrecord{
+  margin-top: 20rpx;
+}
+
+.pages-top{
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx;
+}
+
+.myvalue{
+  display: flex;
+  justify-content: space-between;
+  padding: 30rpx;
+  font-size: 30rpx;
+  border-bottom: 2rpx solid #ccc;
+  
+
+}
+
+.detail-right{
+  color: #ccc;
+  font-size: 25rpx;
+  margin: 20rpx;
+}
+
+.detail-left{
+  display: flex;
+  justify-content: space-between;
+}
+
+.image{
+  margin-top: 20rpx;
+}
+
+.value-group{
+  margin-left: 30rpx;
+}
+
+.value-group .value-bottom{
+  margin-top: 10rpx;
+  color: #847e88;
+}

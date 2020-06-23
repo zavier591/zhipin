@@ -1,0 +1,227 @@
+
+<view class="title">电影榜单</view>
+<view class="recommend-group" style="margin-top: 20rpx;">
+   <view class="box-image"><view class="image" bindtap="gotovideo"><image src="../images/电影.jpg" style="width: 200rpx; height: 300rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <navigator url="../detail/detail?type=movie&id=30331959"><view class="value-name">1. 黑水</view></navigator>
+          <view class="value-score">8.5分</view>
+          </view>
+         <view class="value-list">
+          <navigator url="../detail/detail?type=movie&id=30176393"><view class="value-name">2. 误杀</view></navigator>
+          <view class="value-score">7.7分</view>
+          </view>
+          <view class="value-list">
+          <navigator url="../detail/detail?type=movie&id=27186348"><view class="value-name">3. 春潮</view></navigator>
+          <view class="value-score">7.2分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+
+<view class="title">电视剧榜单</view>
+<view class="recommend-group" >
+   <view class="box-image"><view class="image" bindtap="gototvrecommend"><image src="../images/电视.jpg" style="width: 200rpx; height: 300rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+         <navigator url="../detail/detail?type=tv&id=34845712"><view class="value-name">1. 三叉戟</view></navigator>
+          <view class="value-score">8.3分</view>
+          </view>
+         <view class="value-list">
+         <navigator url="../detail/detail?type=tv&id=26986843"><view class="value-name">2. 十日游戏</view></navigator>
+          <view class="value-score">7.7分</view>
+          </view>
+          <view class="value-list">
+          <navigator url="../detail/detail?type=tv&id=34463197"><view class="value-name">3. 传闻中的陈芊芊</view></navigator>
+          <view class="value-score">7.5分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+<view class="title">综艺榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/综艺.jpg" style="width: 200rpx; height: 300rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+           <navigator url="../detail/detail?type=show&id=34894589"><view class="value-name">1. 乘风破浪的姐姐</view></navigator>
+          <view class="value-score">8.5分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. 向往的生活 第四季</view>
+          <view class="value-score">7.3分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 创造营2020</view>
+          <view class="value-score">6.1分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+<view class="title">图书榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/书.jpg" style="width: 200rpx; height: 300rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <view class="value-name">1. 七个疯子</view>
+          <view class="value-score">9.1分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. 烧纸</view>
+          <view class="value-score">9.0分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 万有引力之虹</view>
+          <view class="value-score">8.1分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+<view class="title">音乐榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/音乐.jpg" style="width: 200rpx; height: 300rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <view class="value-name">1. 情人</view>
+          <view class="value-score">7.4分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. Mojito</view>
+          <view class="value-score">6.9分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 节奏病</view>
+          <view class="value-score">6.2分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+<view class="title">手机榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/手机.jpg" style="width: 200rpx; height: 200rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <view class="value-name" bindtap="gotohuaweip">1. 华为P40 Pro</view>
+          <view class="value-score">8.7分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. 华为Mate30 Pro</view>
+          <view class="value-score">8.6分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 小米10 Pro</view>
+          <view class="value-score">8.2分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+<view class="title">笔记本榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/笔记本.jpg" style="width: 200rpx; height: 200rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <view class="value-name" bindtap="gotoair">1. 联想小新Air14</view>
+          <view class="value-score">9.2分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. 惠普暗影精灵5</view>
+          <view class="value-score">8.9分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 华为MateBook 14</view>
+          <view class="value-score">8.4分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+<view class="title">平板电脑榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/平板.jpg" style="width: 200rpx; height: 200rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <view class="value-name">1. 华为MatePad Pro</view>
+          <view class="value-score">9.3分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. iPad mini 2019</view>
+          <view class="value-score">9.2分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 华为MatePad 2020</view>
+          <view class="value-score">8.8分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>
+
+
+<view class="title">考研考公软件榜单</view>
+<view class="recommend-group">
+   <view class="box-image"><view class="image"><image src="../images/软件.jpg" style="width: 200rpx; height: 200rpx; "></image></view>
+      
+      </view>
+      
+      <view class="box">
+         <view class="value-group">
+          <view class="value-list">
+          <view class="value-name">1. 考研帮</view>
+          <view class="value-score">9.2分</view>
+          </view>
+         <view class="value-list">
+          <view class="value-name">2. 华图在线</view>
+          <view class="value-score">9.1分</view>
+          </view>
+          <view class="value-list">
+          <view class="value-name">3. 中公题库</view>
+          <view class="value-score">9.0分</view>
+          </view>
+          </view>
+           </view>   
+
+</view>

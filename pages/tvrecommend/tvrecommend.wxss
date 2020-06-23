@@ -1,0 +1,19 @@
+/* pages/tvrecommend/tvrecommend.wxss */
+.text{
+  text-align: center;
+  margin-bottom: 100rpx;
+
+}
+
+
+.text>button{
+  width: 50vw;
+  color: #b384ce;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+
+}
+
+.title{
+  margin: 20rpx;
+}

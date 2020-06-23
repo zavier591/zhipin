@@ -1,0 +1,9 @@
+{
+  "usingComponents": {},
+  
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#b384ce",
+    "navigationBarTitleText": "智品周榜单",
+    "navigationBarTextStyle": "white"
+  
+}

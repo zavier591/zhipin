@@ -1,0 +1,17 @@
+<!--pages/grades/grades.wxml-->
+<form bindsubmit="formSubmit">
+<view class="clickstars">请选择您的评价</view>
+<view class="stars">
+<radio-group class="radio-group" name="clickstars" bindchange="radioChange">
+                <radio class="radio" wx:for-items="{{clickstars}}" wx:key="value" value="{{item.value}}" checked="{{item.checked}}">
+                    <text>{{item.value}}</text>
+                </radio>
+            </radio-group>
+
+ </view>
+
+<view class="textgrade">  <textarea name="textgrade" placeholder="输入评价"  bindblur="textChange" />  </view>
+
+<view class="suresubmit"><button type="primary" form-type="submit" >确定提交</button>
+</view>
+</form>

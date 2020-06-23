@@ -1,0 +1,132 @@
+
+<view class="myspage"><button class="btn" bindtap="gotobeginlogin" hover-class="btn-active" >登录</button></view>
+
+<view class="myrecord">
+
+<view class="pages-top">
+<view class="title">我的记录</view>
+<view class="all">全部</view>
+</view>
+</view>
+
+
+<view class="detail-record">
+
+ <view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/电影.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">电影评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/电视剧.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">电视评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+
+<view class="myvalue">
+    <view class="detail-left">
+      <view class="image"><image src="../icon/书.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">读书评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/音乐.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">音乐评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+
+
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/手机.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">手机评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+
+  
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/笔记本电脑.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">笔记本评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/平板.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">平板电脑评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/风景.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">景点评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+
+<view class="myvalue">
+    <view class="detail-left">
+       <view class="image"><image src="../icon/酒店.png" style="width: 50rpx; height: 50rpx; "></image></view>
+       <view class="value-group">
+          <view class="value-top">酒店评价</view>
+          <view class="value-bottom">0点评</view>
+          </view>
+               </view>
+        <view class="detail-right">没有记录</view>
+          </view>
+
+
+
+
+
+</view>

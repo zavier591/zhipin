@@ -1,0 +1,6 @@
+<!--pages/video/video.wxml-->
+<view class="video-list" wx:for="{{movieList}}" wx:key="user">
+  <view class="video-title">{{item.title}}</view>
+  <view class="video-detail">{{item.detail}}</view>
+  <video src="{{item.src}}" objectFit="fill"></video> 
+</view>

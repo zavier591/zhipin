@@ -1,0 +1,8 @@
+<!--pages/tvrecommend/tvrecommend.wxml-->
+<view class="title">《三叉戟》更新至30集</view>
+ <view class="text" bindtap="gotoyunpan"><button>点击获取</button>
+提取码: 2323</view>
+
+<view class="title">《乘风破浪的姐姐》更新至02集</view>
+ <view class="text" bindtap="gotoyunpan"><button>点击获取</button>
+提取码: 2323</view>

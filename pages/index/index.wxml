@@ -1,0 +1,17 @@
+<searchbar isnavigator="{{true}}"></searchbar>
+
+<!-- 电影 -->
+<indexmodule title="电影" items="{{movies}}" moreurl="/pages/list/list?type=movie" type="movie"></indexmodule>
+
+<!-- 电视剧 -->
+<indexmodule title="电视剧" items="{{tvs}}" moreurl="/pages/list/list?type=tv" type="tv"></indexmodule>
+
+<!-- 综艺 -->
+<indexmodule title="综艺" items="{{shows}}" moreurl="/pages/list/list?type=show" type="show"></indexmodule>
+
+<!-- 图书 -->
+<indexmodule title="图书" items="{{books}}" moreurl="/pages/list/list?type=book" type="book"></indexmodule>
+
+
+<!-- 音乐 -->
+<indexmodule title="音乐" items="{{musics}}" moreurl="/pages/list/list?type=music" type="music"></indexmodule>

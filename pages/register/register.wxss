@@ -1,0 +1,44 @@
+/* pages/login/login.wxss */
+
+.username{
+
+  border: 1px solid #8a8a8a;
+  border-radius: 10rpx;
+}
+
+.username2{
+
+  border: 1px solid #8a8a8a;
+  border-radius: 10rpx;
+  margin-top: 20rpx;
+}
+
+
+.password{
+  border: 1px solid #8a8a8a;
+  border-radius: 10rpx;
+  margin-top: 20rpx;
+}
+
+
+
+.inputtop{
+  width: 600rpx;
+}
+
+.inputbottom{
+  width: 600rpx;
+ 
+}
+
+.input{
+  margin-top: 200rpx;
+  margin-left: 80rpx;
+}
+
+.button{
+  width: 600rpx;
+  margin-left: 80rpx;
+  margin-top: 100rpx;
+}
+
